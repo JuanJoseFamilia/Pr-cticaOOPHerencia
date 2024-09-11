@@ -1,0 +1,14 @@
+C:\pro\PrácticaOOPHerencia\escuela\bin\Debug\net8.0\escuela.exe
+C:\pro\PrácticaOOPHerencia\escuela\bin\Debug\net8.0\escuela.deps.json
+C:\pro\PrácticaOOPHerencia\escuela\bin\Debug\net8.0\escuela.runtimeconfig.json
+C:\pro\PrácticaOOPHerencia\escuela\bin\Debug\net8.0\escuela.dll
+C:\pro\PrácticaOOPHerencia\escuela\bin\Debug\net8.0\escuela.pdb
+C:\pro\PrácticaOOPHerencia\escuela\obj\Debug\net8.0\escuela.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro\PrácticaOOPHerencia\escuela\obj\Debug\net8.0\escuela.AssemblyInfoInputs.cache
+C:\pro\PrácticaOOPHerencia\escuela\obj\Debug\net8.0\escuela.AssemblyInfo.cs
+C:\pro\PrácticaOOPHerencia\escuela\obj\Debug\net8.0\escuela.csproj.CoreCompileInputs.cache
+C:\pro\PrácticaOOPHerencia\escuela\obj\Debug\net8.0\escuela.dll
+C:\pro\PrácticaOOPHerencia\escuela\obj\Debug\net8.0\refint\escuela.dll
+C:\pro\PrácticaOOPHerencia\escuela\obj\Debug\net8.0\escuela.pdb
+C:\pro\PrácticaOOPHerencia\escuela\obj\Debug\net8.0\escuela.genruntimeconfig.cache
+C:\pro\PrácticaOOPHerencia\escuela\obj\Debug\net8.0\ref\escuela.dll

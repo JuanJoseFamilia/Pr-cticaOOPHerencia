@@ -1,0 +1,14 @@
+C:\pro\PrácticaOOPHerencia\abstractaShape\bin\Debug\net8.0\abstractaShape.exe
+C:\pro\PrácticaOOPHerencia\abstractaShape\bin\Debug\net8.0\abstractaShape.deps.json
+C:\pro\PrácticaOOPHerencia\abstractaShape\bin\Debug\net8.0\abstractaShape.runtimeconfig.json
+C:\pro\PrácticaOOPHerencia\abstractaShape\bin\Debug\net8.0\abstractaShape.dll
+C:\pro\PrácticaOOPHerencia\abstractaShape\bin\Debug\net8.0\abstractaShape.pdb
+C:\pro\PrácticaOOPHerencia\abstractaShape\obj\Debug\net8.0\abstractaShape.GeneratedMSBuildEditorConfig.editorconfig
+C:\pro\PrácticaOOPHerencia\abstractaShape\obj\Debug\net8.0\abstractaShape.AssemblyInfoInputs.cache
+C:\pro\PrácticaOOPHerencia\abstractaShape\obj\Debug\net8.0\abstractaShape.AssemblyInfo.cs
+C:\pro\PrácticaOOPHerencia\abstractaShape\obj\Debug\net8.0\abstractaShape.csproj.CoreCompileInputs.cache
+C:\pro\PrácticaOOPHerencia\abstractaShape\obj\Debug\net8.0\abstractaShape.dll
+C:\pro\PrácticaOOPHerencia\abstractaShape\obj\Debug\net8.0\refint\abstractaShape.dll
+C:\pro\PrácticaOOPHerencia\abstractaShape\obj\Debug\net8.0\abstractaShape.pdb
+C:\pro\PrácticaOOPHerencia\abstractaShape\obj\Debug\net8.0\abstractaShape.genruntimeconfig.cache
+C:\pro\PrácticaOOPHerencia\abstractaShape\obj\Debug\net8.0\ref\abstractaShape.dll
